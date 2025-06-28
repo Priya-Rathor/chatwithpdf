@@ -1,8 +1,4 @@
-Thanks, Priya! Based on your second project (the **Streamlit-based PDF Q\&A Extractor using OpenAI**), here's a clean, professional `README.md` file designed for GitHub:
 
----
-
-```markdown
 # 📄 PDF Q&A Extractor - AI-powered Assessment Parser
 
 This project is a **Streamlit** application that reads uploaded **PDFs**, extracts **structured question-answer data**, and formats it for automated LLM-based evaluations. It's ideal for educational institutions, assessment developers, or AI grading tools.
