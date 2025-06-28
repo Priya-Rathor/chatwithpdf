@@ -145,9 +145,4 @@ streamlit run main.py
 
 ---
 
-## 🏁 License
-
-This project is under the **MIT License**.
-
-```
 
